@@ -66,8 +66,9 @@ Flow Navigation (Screen to Screen)
  - Social Hub
 => Profile Screen
 
-Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+Wireframes:
+
+![Wireframe](https://github.com/CanceledProductions/SpringHaven/assets/99377411/236b8109-5c0a-4e54-a2b3-9dbaf03d88d4)
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
