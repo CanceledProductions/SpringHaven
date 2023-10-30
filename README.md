@@ -68,7 +68,8 @@ Flow Navigation (Screen to Screen)
 
 Wireframes:
 
-![Wireframe](https://github.com/CanceledProductions/SpringHaven/assets/99377411/236b8109-5c0a-4e54-a2b3-9dbaf03d88d4)
+![Wireframe](https://github.com/CanceledProductions/SpringHaven/assets/99377411/9ed68dfd-dc0c-4752-bf31-37054363680c)
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
