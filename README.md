@@ -16,17 +16,17 @@ In this app you will be immersed in the world of SpringHaven, a social hub that 
 App Evaluation
 [Evaluation of your app across the following attributes]
 
-Category:
+Category: Interactive Social Hub
 
-Mobile:
+Mobile: Only optimized for IOS.
 
-Story:
+Story: This app takes place in a fictional world called SpringHaven and will be a place where you can upload your character and interact with NPC and other users in this world.
 
-Market:
+Market: The potential users would be those who enjoy roleplaying and socializing as well as gamers.
 
-Habit:
+Habit: We want this world to feel immersive where the user is able to experience it differntly each time with their interactions.
 
-Scope:
+Scope: For this app we want to make sure to have the social hub key elements complete where the user is able to post on their feed and interact with users of this world.
 
 Product Spec
 1. User Stories (Required and Optional)
