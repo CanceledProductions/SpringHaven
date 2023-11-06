@@ -130,6 +130,17 @@ Flow Navigation (Screen to Screen)
 - Movie List Page
 => Movie Details Page
 
+GIFs
+
+Sprint 1 Progress
+<div>
+    <a href="https://www.loom.com/share/295ba2c6a38f49f7bb9ce2366b924392">
+    </a>
+    <a href="https://www.loom.com/share/295ba2c6a38f49f7bb9ce2366b924392">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/295ba2c6a38f49f7bb9ce2366b924392-with-play.gif">
+    </a>
+  </div>
+
 Schema
 [This section will be completed in Unit 9]
 
