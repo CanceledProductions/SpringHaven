@@ -11,7 +11,8 @@ import AlamofireImage
 
 class PostCell: UITableViewCell {
 
-    @IBOutlet private weak var usernameLabel: UILabel!
+  
+    @IBOutlet weak var usernameLabel: UILabel!
     @IBOutlet private weak var postImageView: UIImageView!
     @IBOutlet private weak var captionLabel: UILabel!
     @IBOutlet private weak var dateLabel: UILabel!
