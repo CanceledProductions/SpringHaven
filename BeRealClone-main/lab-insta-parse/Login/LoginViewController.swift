@@ -43,10 +43,10 @@ class LoginViewController: UIViewController {
                 // Post a notification that the user has successfully logged in.
                 NotificationCenter.default.post(name: Notification.Name("login"), object: nil)
                 
-//                // Perform a segue to the tab bar controller
-//                if let tabBarController = self?.storyboard?.instantiateViewController(withIdentifier: "MainFeed") {
-//                    self?.present(tabBarController, animated: true, completion: nil)
-//                        }
+                // Perform a segue to the tab bar controller
+                if let tabBarController = self?.storyboard?.instantiateViewController(withIdentifier: "MainFeed") {
+                    self?.present(tabBarController, animated: true, completion: nil)
+                        }
 
 
             case .failure(let error):
