@@ -35,9 +35,26 @@ class FeedViewController: UIViewController {
 
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        // Check if a user is signed in
+                if let currentUser = User.current {
+                    // A user is signed in, and `currentUser` contains the user information.
+                    // You can access the user's properties and perform actions.
+
+                    queryPosts() // Fetch and display posts, for example
+                } else {
+                    // No user is signed in. You can prompt the user to log in.
+                    promptUserToLogIn()
+                }
 
         queryPosts()
     }
+    
+    private func promptUserToLogIn() {
+            // You can present a login view controller or navigate to your login screen here.
+            // Example: Present the login view controller
+            let loginViewController = self.storyboard?.instantiateViewController(withIdentifier: "LoginViewController") as! LoginViewController
+            self.navigationController?.pushViewController(loginViewController, animated: true)
+        }
 
     private func queryPosts(completion: (() -> Void)? = nil) {
         // TODO: Pt 1 - Query Posts
