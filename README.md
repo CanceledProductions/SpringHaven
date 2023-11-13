@@ -35,15 +35,15 @@ Required Must-have Stories:
 
 Issue 1: Project Initialization
 [X] Set up the Xcode project with the required configurations.
-[X] Create the app's basic structure, including a tab bar and navigation controllers.
+[X] Create the app's basic structure, including navigation controllers.
 
-Issue 2: Character Listing Screen
-[X] Create a character listing screen with placeholder data.
+Issue 2: Character Creation Screen
+[X] Create a character into the user database.
 [ ] Implement the UITableView to display characters from the TV show and other users.
-[X] Add navigation to the character detail screen.
+[X] Add Profile avatar option.
 
-Issue 3: Character Detail Screen
-[X] Create the character detail screen.
+Issue 3: Character Feed
+[X] Create the character feed screen to see other users posts.
 [ ] Display character information and an image.
 [X] Add a back button to return to the character listing screen.
 
@@ -75,16 +75,16 @@ Issue 9: World Map Screen
 [ ] Integrate map functionalities (you can use MapKit or a mapping library).
 [ ] Implement navigation to access the map from the tab bar.
 
-Issue 10: App Icon and Splash Screen
-[ ] Design and set up an app icon and a splash screen for your app.
+Issue 10: App Icon
+[x] Design and set up an app icon for your app.
 
 Issue 11: Styling and Theming
-[ ] Define the app's visual theme, colors, fonts, and UI elements.
-[ ] Apply consistent styling across all screens.
+[x] Define the app's visual theme, colors, fonts, and UI elements.
+[x] Apply consistent styling across all screens.
 
 Issue 12: Testing and Debugging
-[ ] Test the app on different iOS devices and simulator versions.
-[ ] Identify and fix any bugs or issues.
+[x] Test the app on different iOS devices and simulator versions.
+[x] Identify and fix any bugs or issues.
 
 Optional Nice-to-have Stories:
 
@@ -138,6 +138,16 @@ Sprint 1 Progress
     </a>
     <a href="https://www.loom.com/share/295ba2c6a38f49f7bb9ce2366b924392">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/295ba2c6a38f49f7bb9ce2366b924392-with-play.gif">
+    </a>
+  </div>
+
+App Demo Video
+<div>
+    <a href="https://www.loom.com/share/38534cbb6d08403fb44cebc9e820aa44">
+      <p>User App Demo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/38534cbb6d08403fb44cebc9e820aa44">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/38534cbb6d08403fb44cebc9e820aa44-with-play.gif">
     </a>
   </div>
 
