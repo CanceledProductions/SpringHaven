@@ -144,10 +144,18 @@ Sprint 1 Progress
 App Demo Video
 <div>
     <a href="https://www.loom.com/share/38534cbb6d08403fb44cebc9e820aa44">
-      <p>User App Demo - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/38534cbb6d08403fb44cebc9e820aa44">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/38534cbb6d08403fb44cebc9e820aa44-with-play.gif">
+    </a>
+  </div>
+
+  Final App Demo Video
+  <div>
+    <a href="https://www.loom.com/share/f2d001760bd84e9f8b0d5b8406e75e3c">
+    </a>
+    <a href="https://www.loom.com/share/f2d001760bd84e9f8b0d5b8406e75e3c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f2d001760bd84e9f8b0d5b8406e75e3c-with-play.gif">
     </a>
   </div>
 
